@@ -1,6 +1,9 @@
 #ignote test.txt
 test.txt
 
+#ignore new-file.txt
+new-file.txt
+
 bin/
 #ignore all .tmp files
 *.tmp
