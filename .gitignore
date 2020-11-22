@@ -2,7 +2,7 @@
 test.txt
 
 #ignore new-file.txt
-new-file.txt
+another-file.txt
 
 bin/
 #ignore all .tmp files
